@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-mergeDebugResources-40:\\layout\\content_act_dados.xml",
+        "source": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-main-43:\\layout\\content_act_dados.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-mergeDebugResources-40:\\layout\\fragment_first2.xml",
+        "source": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-main-43:\\layout\\fragment_first2.xml"
+    },
+    {
+        "merged": "uniparar.com.app-mergeDebugResources-40:/layout/content_act_dados.xml",
+        "source": "uniparar.com.app-main-43:/layout/content_act_dados.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-mergeDebugResources-40:\\layout\\fragment_second2.xml",
+        "source": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-main-43:\\layout\\fragment_second2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-mergeDebugResources-40:\\layout\\act_dados.xml",
+        "source": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-main-43:\\layout\\act_dados.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-mergeDebugResources-40:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-main-43:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-mergeDebugResources-40:\\layout\\act_janela_principal.xml",
+        "source": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-main-43:\\layout\\act_janela_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-mergeDebugResources-40:\\layout\\content_act_janela_principal.xml",
+        "source": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-main-43:\\layout\\content_act_janela_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-mergeDebugResources-40:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\Kalleu\\.gradle\\daemon\\7.4\\uniparar.com.app-main-43:\\layout\\fragment_first.xml"
+    }
+]
